@@ -17,8 +17,8 @@ from src.datascience.utils.common import read_yaml, create_directories,save_json
 #os.environ["MLFLOW_TRACKING_PASSWORD"]="7104284f1bb44ece21e0e2adb4e36a250ae3251f"
 
 os.environ['MLFLOW_TRACKING_URI']="https://dagshub.com/KirankumarDhanireddy/datascienceproject.mlflow"
-os.environ['MLFLOW_TRACKING_USERNAME']="KirankumarDhanireddy"
-os.environ['MLFLOW_TRACKING_PASSWORD']="d7e44f122520e2326b178d2965f90c77e76f70a3"
+os.environ['MLFLOW_TRACKING_USERNAME']=""
+os.environ['MLFLOW_TRACKING_PASSWORD']=""
 
 
 class ModelEvaluation:
