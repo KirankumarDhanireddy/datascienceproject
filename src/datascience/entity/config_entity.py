@@ -20,7 +20,7 @@ class DataValidationConfig:
 class DataTransformationConfig:
     root_dir: Path
     data_path: Path
-'''
+
 @dataclass
 class ModelTrainerConfig:
     root_dir: Path
@@ -30,7 +30,7 @@ class ModelTrainerConfig:
     alpha: float
     l1_ratio: float
     target_column: str
-
+'''
 @dataclass
 class ModelEvaluationConfig:
     root_dir: Path
