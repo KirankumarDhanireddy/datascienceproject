@@ -1,4 +1,4 @@
-# This is an end to end Data Science project with deployment
+# This is an end to end Data Science project with deployment into cloud
 
 ### Workflows--ML Pipeline
 
